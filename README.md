@@ -1,7 +1,6 @@
 ### Hi 👋
 
-- :computer: I’m currently learning Python, Django and SQL
-- :office: I work as a HR specialist in the cheese factory
+- :computer: I’m currently learning Python, Machine Learning and Data Science
 - :star: :camera: :star: I am an amateur astrophotographer - I take pictures of nebulae, galaxies, star clusters, the moon, etc.
   You can see my astrophotos on my website: https://cloudless-nights.com
 <br>
